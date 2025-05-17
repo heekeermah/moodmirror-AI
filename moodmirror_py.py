@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/15URMMU4bGFqMksPR5sZo_uqzZViwULOY
 """
 
-!pip install streamlit transformers
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # # %%
@@ -50,6 +50,6 @@ if st.button("Analyze"):
 st.markdown("---")
 st.caption("Not a substitute for professional diagnosis.")
 
-!streamlit run moodmirror.py --server.port 8502
+
 
 !streamlit run moodmirror.py
