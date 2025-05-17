@@ -52,4 +52,4 @@ st.caption("Not a substitute for professional diagnosis.")
 
 
 
-!streamlit run moodmirror.py
+
